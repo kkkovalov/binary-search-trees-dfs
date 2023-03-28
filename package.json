@@ -1,0 +1,20 @@
+{
+  "name": "binary-search-trees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkkovalov/binary-search-trees-dfs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkkovalov/binary-search-trees-dfs/issues"
+  },
+  "homepage": "https://github.com/kkkovalov/binary-search-trees-dfs#readme"
+}
